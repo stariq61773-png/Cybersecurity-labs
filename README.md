@@ -1,6 +1,6 @@
 # Cybersecurity Labs Portfolio
 
-**Name:** [Your Full Name]  
+**Name:** Salman Tariq  
 **Degree:** BSc (Hons) Cybersecurity  
 **Status:** Actively practicing with CEH v12 Labs + Bug Bounty Hunting
 
